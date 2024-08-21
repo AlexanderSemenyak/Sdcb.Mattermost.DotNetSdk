@@ -1,3 +1,5 @@
+origin: https://github.com/sdcb/Sdcb.Mattermost.DotNetSdk
+
 # Sdcb.Mattermost.DotNetSdk - the C# library for the Mattermost API Reference
 
 There is also a work-in-progress [Postman API reference](https://documenter.getpostman.com/view/4508214/RW8FERUn). 
